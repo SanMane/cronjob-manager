@@ -1,5 +1,5 @@
-# cronjob-manager
-A simple, user-friendly CronJob Manager for Linux servers.
+# cronjob-manager PHP
+A simple, user-friendly CronJob's Manager for Linux servers using PHP.
 
 ## Use:
 Just paste/extract it into the htdocs directory of your Linux server.
